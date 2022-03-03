@@ -1,0 +1,23 @@
+{
+  "name": "qr-code-component-main",
+  "version": "1.0.0",
+  "description": "a web page with a qr code",
+  "main": "index.html",
+  "dependencies": {},
+  "devDependencies": {
+    "sass": "^1.49.9"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jwolf9/qr-code-component-main.git"
+  },
+  "author": "jonathan wolf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jwolf9/qr-code-component-main/issues"
+  },
+  "homepage": "https://github.com/jwolf9/qr-code-component-main#readme"
+}
