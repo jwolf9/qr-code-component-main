@@ -4,9 +4,7 @@
   "description": "a web page with a qr code",
   "main": "index.html",
   "dependencies": {},
-  "devDependencies": {
-    "sass": "^1.49.9"
-  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
