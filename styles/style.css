@@ -9,6 +9,7 @@
 
 body {
   background-color: #7b879d;
+  height: 100vh;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -22,5 +23,12 @@ body {
   -webkit-box-direction: normal;
       -ms-flex-direction: column;
           flex-direction: column;
+}
+
+.card {
+  background-color: white;
+  position: relative;
+  width: 300px;
+  height: 550px;
 }
 /*# sourceMappingURL=style.css.map */
