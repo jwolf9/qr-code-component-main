@@ -36,7 +36,18 @@ body {
 .title {
     position: relative;
     text-align: center;
+    font-size: 2rem;
     top: 15px;
+    margin: 18px;
+    color: hsl(218, 44%, 22%);
+}
+
+.description {
+    position: relative;
+    top: 15px;
+    text-align: center;
+    color: hsl(220, 15%, 55%);
+    margin: 18px;
 }
 
 .attribution {
