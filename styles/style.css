@@ -1,10 +1,5 @@
-.attribution {
-  font-size: 11px;
-  text-align: center;
-}
-
-.attribution a {
-  color: #3e52a3;
+html {
+  font-size: 62.5%;
 }
 
 body {
@@ -23,6 +18,7 @@ body {
   -webkit-box-direction: normal;
       -ms-flex-direction: column;
           flex-direction: column;
+  font-size: 1.6rem;
 }
 
 .card {
@@ -41,5 +37,20 @@ body {
   left: 15px;
   max-width: 270px;
   border-radius: 10px;
+}
+
+.title {
+  position: relative;
+  text-align: center;
+  top: 15px;
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+
+.attribution a {
+  color: #3e52a3;
 }
 /*# sourceMappingURL=style.css.map */
