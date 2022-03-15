@@ -34,7 +34,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
-Learned out to use the Sass preprocessor to generate css files. Though I didn't use many of its features in this project, I think it will help me write more ellegant, mainainable css in the future.
+Learned how to use the Sass preprocessor to generate css files. Though I didn't use many of its features in this project, I think it will help me write more elegant, maintainable css in the future.
 
 
 ### Continued development
