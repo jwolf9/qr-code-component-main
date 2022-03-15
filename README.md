@@ -36,10 +36,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 Learned how to use the Sass preprocessor to generate css files. Though I didn't use many of its features in this project, I think it will help me write more elegant, maintainable css in the future.
 
-
 ### Continued development
 
-I want to get better at writing responsive web apps. Ones that can scale correctly with screen size
+I want to get better at writing responsive web apps. Ones that can scale well with screen size
 
 ### Useful resources
 
